@@ -16,6 +16,7 @@
   "rules": {
     // override/add rules settings here, such as:
     // 'vue/no-unused-vars': 'error'
+    "@typescript-eslint/no-explicit-any": "off",
     "vue/require-default-prop": "off",
     "@typescript-eslint/ban-types": [
       "error",
